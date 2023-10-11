@@ -1,0 +1,4 @@
+﻿  Lab1.2.cpp
+D:\Project\Lab1.2\Lab1.2\Lab1.2.cpp(8,25): warning C4305: инициализация: усечение из "double" в "float"
+D:\Project\Lab1.2\Lab1.2\Lab1.2.cpp(15,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab1.2.vcxproj -> D:\Project\Lab1.2\x64\Debug\Lab1.2.exe
